@@ -1,6 +1,6 @@
 <h1 align="center">🫡</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1f/3d/c0/1f3dc0737e44ee3dbf52b7399dd71ba4.gif" width="400" alt="anime banner"/>
+  <img src="https://in.pinterest.com/pin/55309901668888730/" width="400" alt="anime banner"/>
 </p>
 
 ---
