@@ -1,5 +1,6 @@
 <h1 align="center">🫡</h1>
 <p align="center">
+  <img src="https://i.postimg.cc/DwbQHG6T/AnimeBanner.jpg" width="600" alt="anime banner" />
 </p>
 
 ---
