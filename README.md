@@ -1,8 +1,8 @@
 <h1 align="center">🫡</h1>
+
 <p align="center">
   <img src="https://i.postimg.cc/3rDTPpQN/f63bb8d17fe2c624412287df221a076b.gif" width="600" alt="anime banner" />
 </p>
-
 
 ---
 
