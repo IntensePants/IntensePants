@@ -1,12 +1,5 @@
-<h1 align="center">🫡</h1>
+## 🙋‍♂️ Languages:
 
-<p align="center">
-  <img src="https://i.postimg.cc/3rDTPpQN/f63bb8d17fe2c624412287df221a076b.gif" width="600" alt="anime banner" />
-</p>
-
----
-
-## 🧠 Languages:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
@@ -14,10 +7,21 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-## 🛠 Tools & Frameworks:
+## 🛠️ Tools & Frameworks:
+
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+</p>
+
+
+---
+
+## Socials:
+
+<p align="center">
+  <a href="https://www.instagram.com/intensepants/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
 </p>
